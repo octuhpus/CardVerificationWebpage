@@ -1,0 +1,30 @@
+h2 {
+	color: blue;
+}
+
+#formContainer>*{
+	margin-top: 3px;
+	margin-left: 5px;
+}
+
+#formContainer>label{
+	display: inline-block;
+	margin-right: 10px;
+	width: 120px;
+	text-align: left;
+}
+
+#formContainer>button{
+	margin-top:30px;
+	margin-left: 135px;
+}
+
+#errorMessages {
+	color: red;
+}
+
+#paymentSubmitted {
+	font-size: 22px;
+	color: green;
+	margin-left: 135px;
+}
